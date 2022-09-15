@@ -6,6 +6,6 @@
 - 🤔 I’m looking for help with understanding java at the time being.
 - 💬 Ask me about my progression since I joined Promineo-Tech!
 - 📫 How to reach me: www.linkedin.com/in/tonyspeech-ortega-87408224b
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He || Him
 - ⚡ Fun fact: I really love sports, playing basketball, and learning more code on my off time!
 -->
