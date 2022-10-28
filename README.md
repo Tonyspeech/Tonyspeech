@@ -1,6 +1,6 @@
 ### Welcome to my sanctuary 💬
 
-- 🔭 I’m currently working on java.
+- 🔭 I’m currently working on java, MySQL, and SpringBoot
 - 🌱 I’m currently learning loops and variables. Also how to use a statement correctly.
 - 👯 I’m looking to collaborate on an app in the later weeks for our first app design.
 - 🤔 I’m looking for help with understanding java at the time being.
