@@ -1,9 +1,9 @@
 ### Welcome to my sanctuary 💬
 
 - 🔭 I’m currently working on java, MySQL, and SpringBoot
-- 🌱 I’m currently learning loops and variables. Also how to use a statement correctly.
-- 👯 I’m looking to collaborate on an app in the later weeks for our first app design.
-- 🤔 I’m looking for help with understanding java at the time being.
+- 🌱 Creating different Apps with each program to get a good base understanding.
+- 👯 One thing I ahve learned, NEVER shy away from asking a question. Better to ask than to guess.
+- 🤔 I want to further my knowledge as far as possible. This why I love coding for non-stop learning! Expanding my brain! 🧠
 - 💬 Ask me about my progression since I joined Promineo-Tech!
 - 📫 How to reach me: www.linkedin.com/in/tonyspeech-ortega-87408224b
 - 😄 Pronouns: He || Him
